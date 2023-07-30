@@ -133,6 +133,7 @@ ul{
 
     header nav li a{
         color: var(--main-color);
+        transition: 0.5s;
     }
 
     header nav .classic-nav{
