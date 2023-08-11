@@ -344,6 +344,7 @@ ul{
         margin-top: 100px;
         display: flex;
         justify-content: space-between;
+        align-items: center;
     }
 
     .about .about-content .image{
